@@ -2,9 +2,9 @@
 
 Monte Carlo simulation code for the paper:
 
-> **Vanishing punctuated dynamics on high-dimensional fitness landscapes: a deep-basin condition**
+> [**Vanishing punctuated dynamics on high-dimensional fitness landscapes: a deep-basin condition**](https://zenodo.org/records/19091704)
 >
-> Hiroyuki Nashida (2026).
+> [Hiroyuki Nashida](https://orcid.org/0009-0009-2602-4549) (2026).
 
 ## Overview
 
