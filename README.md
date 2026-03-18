@@ -149,11 +149,16 @@ Results are saved as JSON files in `results/`:
 ## Citation
 
 ```bibtex
-@article{nashida2026vanishing,
-  title={Vanishing punctuated dynamics on high-dimensional fitness landscapes:
-         a deep-basin condition},
-  author={Nashida, Hiroyuki},
-  year={2026}
+@misc{nashida_2026_19091704,
+  author       = {Nashida, Hiroyuki},
+  title        = {Vanishing punctuated dynamics on high-dimensional
+                   fitness landscapes: a deep-basin condition
+                  },
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19091704},
+  url          = {https://doi.org/10.5281/zenodo.19091704},
 }
 ```
 
