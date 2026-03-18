@@ -149,7 +149,7 @@ Results are saved as JSON files in `results/`:
 ## Citation
 
 ```bibtex
-@misc{nashida_2026_19091704,
+@misc{nashida_2026_19091703,
   author       = {Nashida, Hiroyuki},
   title        = {Vanishing punctuated dynamics on high-dimensional
                    fitness landscapes: a deep-basin condition
@@ -157,8 +157,8 @@ Results are saved as JSON files in `results/`:
   month        = mar,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.19091704},
-  url          = {https://doi.org/10.5281/zenodo.19091704},
+  doi          = {10.5281/zenodo.19091703},
+  url          = {https://doi.org/10.5281/zenodo.19091703},
 }
 ```
 
