@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Numba cache
+*.nbi
+*.nbc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Results (large files — tracked separately or via git-lfs)
+results/
+figures/
+
+# OS
+.DS_Store
+Thumbs.db
