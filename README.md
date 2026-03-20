@@ -2,7 +2,7 @@
 
 Monte Carlo simulation code for the paper:
 
-> [**Vanishing punctuated dynamics on high-dimensional fitness landscapes: a deep-basin condition**](https://doi.org/10.5281/zenodo.19091703)
+> [**Vanishing punctuated dynamics on high-dimensional fitness landscapes: a deep-basin condition**](https://harappa.github.io/)
 >
 > [Hiroyuki Nashida](https://orcid.org/0009-0009-2602-4549) (2026).
 
